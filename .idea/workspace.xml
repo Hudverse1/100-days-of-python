@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70b417c-4181-4f7e-a2eb-268813370cd5" name="Changes" comment="commit 5">
-      <change afterPath="$PROJECT_DIR$/Day-01 - Beginner - working with variables in python to manage data/exercise03-input-function.py" afterDir="false" />
+    <list default="true" id="f70b417c-4181-4f7e-a2eb-268813370cd5" name="Changes" comment="day 1">
+      <change afterPath="$PROJECT_DIR$/Day-02 - Beginner - understanding data types and how to manipulate strings/exercise01-data-types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-02 - Beginner - understanding data types and how to manipulate strings/exercise02-bmi-calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-02 - Beginner - understanding data types and how to manipulate strings/exercise03-life-in-weeks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-01 - Beginner - working with variables in python to manage data/exercise04-variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-01 - Beginner - working with variables in python to manage data/exercise04-variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exercise01-data-types.executor": "Run",
     "Python.exercise01-printing.executor": "Run",
+    "Python.exercise02-bmi-calculator.executor": "Run",
     "Python.exercise02-debugging practice.executor": "Run",
     "Python.exercise03-input-function.executor": "Run",
+    "Python.exercise03-life-in-weeks.executor": "Run",
+    "Python.exercise04-variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -101,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712241294025</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1712241986102</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712241986102</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
+    <MESSAGE value="day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
   </component>
 </project>
